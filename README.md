@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">V-LMB </h1>
 
-<!--
-**v-lmb/v-lmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/I’m%20Learning-green" alt="I'm learning" />
+  <img src="https://img.shields.io/badge/HTML-orange?logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-blue?logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/interest-Cybercsercurity-purple" alt="Interest Cybersecurity" />
+  <img src="https://img.shields.io/badge/Holberton%20Student-red" alt="Holberton Student" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Currently Learning
+
+- 🧱 Web Development: HTML, CSS, JavaScript
+- 🐍 Python (beginner level)
+- 🔐 Cybersecurity fundamentals (Linux, privacy tools, ethical hacking)
+
+---
