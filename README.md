@@ -2,11 +2,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/I’m%20Learning-green" alt="I'm learning" />
+  <img src="https://img.shields.io/badge/OSINT-070675" atl="OSINT" />
   <img src="https://img.shields.io/badge/HTML-orange?logo=html5" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS-blue?logo=css3" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/interest-Cybercsercurity-purple" alt="Interest Cybersecurity" />
   <img src="https://img.shields.io/badge/Holberton%20Student-red" alt="Holberton Student" />
+  
 </p>
 
 ---
