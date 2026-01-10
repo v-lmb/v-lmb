@@ -3,8 +3,8 @@
 # 💫 About Me:
 
 💻 I’m currently learning HTML, CSS, JS, Python, C, Cybersecurity fundamentals<br>
-🔐 I’m interessed in cybersecurity, CTF (specially steganography)<br>
-✨ I often practise OSINT<br>
+🔐 I’m interessed in cybersecurity, CTF (Root-me / Pico CTF)<br>
+✨ I often practise OSINT since 7 years<br>
 
 # 💻 Tech Stack:
 <div align="left">
