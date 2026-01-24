@@ -1,11 +1,5 @@
 # Hi, I'm Virginie !
 
-# 💫 About Me:
-
-💻 I’m currently learning HTML, CSS, JS, Python, C, Bug Bunty & Cybersecurity fundamentals<br>
-🔐 I’m interessed in cybersecurity, CTF (Root-me / Pico CTF)<br>
-✨ I often practise OSINT since 7 years<br>
-
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
