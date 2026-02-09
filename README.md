@@ -1,5 +1,9 @@
 # Hi, I'm Virginie !
 
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/ba/3b/6a/ba3b6a898fbf527ef2dadff516a6089d.gif"  />
+</div>
+
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
