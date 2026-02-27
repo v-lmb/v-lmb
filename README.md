@@ -1,5 +1,5 @@
-# Hi, I'm Virginie !
-
+# Hi ! 🌟​
+I'm Virginie, a developer with a thing for cybersecurity and space. Still exploring both worlds, but what drives me is understanding how complex systems are built — and how they can fail. 🛰️​
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/ba/3b/6a/ba3b6a898fbf527ef2dadff516a6089d.gif"  />
 </div>
