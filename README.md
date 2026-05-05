@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="Virginie LOMBARTE" src="https://github.com/user-attachments/assets/45c4b4e1-48f3-4adf-860d-18568ea1fc86" />
 
 
----
+
 
 ## 👋 À propos
 
